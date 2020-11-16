@@ -1,0 +1,64 @@
+# Kickstarting with Excel
+
+
+
+
+## Overview of Project
+
+	### Purpose
+
+	
+	The purpose of this project was to analyze a dataset of kickstarts that suceeded in their fundraisring goals and those that did not suceed. The data was further drilled down to analyze the successful and failed kickstarters in 
+	the same category.
+
+
+	## Analysis and Challenges
+
+	
+	This analysis was conducted by looking at two main views. These veiws were campiagns based on goals and campiagns based on launch date. These two factors help determine if successful campiagns were based on the the type of 
+	category which would indicate market interest. Fund raising goals, whether those goals were met and the amount for the goal was analyzed. This analysis help indicate market capitalization for the successful and failed campiagns 
+	as well as how often campaigns were successful at their given groupings. 
+
+
+	
+	### Analysis of Outcomes Based on Launch Date
+	
+	
+	Most campaigns were successful regardless of start date but there was an interesting trend that at certain start times when there were more campiagns starting the success rates rose. there were certain times when there were more 
+	campign starts than others and because there were more starts success rates rose. Based on the trends in the data if the sample size examine were larger analysis indicates success rates would be even higher. 
+
+
+	
+	### Analysis of Outcomes Based on Goals
+
+	
+	This categorical analysis revealed over half of all campigns in their respective groupings were able to meet their fundraising goals. This corroberating the analysis of start date that most campiagns were successful. 
+
+
+
+	### Challenges and Difficulties Encountered
+
+	The greatest difficulty I had was referecning the cells on the other sheets. The absolute values sometimes were not inputted into the formulas causing the wrong cells to be referenced. Once the referencing cells were fixed 
+	analysis was much easier to complete.
+
+
+	## Results
+
+	- What are two conclusions you can draw about the Outcomes based on Launch Date?
+	The first conclusion is start date is important. If a new campiagn is launch when there are few other campigns it is unlikely to suceed and there maybe a seasonal trend but the sample size was too small to confirm, however based 
+	on the data set it is moderatly likely certain times are better for launch than other such as May had the most launches alogng wiht the most successful campiagns. 
+
+
+	- What can you conclude about the Outcomes based on Goals?
+	Over half of all campaigns succeed regardles of goals. If the goal is rather high thatn it is very harder to make a detemrination as in the data set examined the frequency for  higher fundraising targets were too small to make 
+	any statiscally backed decision. 
+
+
+	- What are some limitations of this dataset?
+	
+	I would say the biggest limitation is the the identification of the number of unique donors. This would help with etermine category popularity and potential a different conclusion. If there were only a handful of donors than the
+	pitch for the campign would significantly more valuable other data points. 
+
+
+	- What are some other possible tables and/or graphs that we could create?
+	A linear regressoin graph of comparing which ata points are more dependant one one another. This would help reveal true underlying trends that impac the rest of the data set. 
